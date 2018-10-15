@@ -1,7 +1,7 @@
 ---
 ID: 227
-post_title: First 3 months
-post_name: first-3-months
+post_title: First 4 months
+post_name: first-4-months
 author: Karen Geerts
 post_date: 2018-10-14 18:45:00
 layout: posts
@@ -11,7 +11,7 @@ categories:
   - Uncategorized
 ---
 
-As so many people before me, I've failed to continue with the regular updates to my blog. But luckily I'm just in time to write a little retro of my first 3 months in my first developer role.
+As so many people before me, I've failed to continue with the regular updates to my blog. But luckily I'm just in time to write a little retro of my first 4 months in my first developer role.
 
 The good:
 - I have learned heaps and heaps - even when I didn't realise I was actually learning and only felt super confused. I try to take as many notes as I can when someone explains a concept to me, or even while we're pairing - I like to have a read of the thought process we went through, how and where we were poking around with the code before coming to the right solution. Rereading these notes helps me heaps - I can now fill in the gaps of the notes of my early days, and I will continue with this approach until I can recognise the patterns and no longer need to write down what we're doing, because I will know what steps are required.
