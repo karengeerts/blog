@@ -17,7 +17,7 @@ As it's nearly the end of the year, the end of my probation period (yay!) and ne
   <img src="https://images-na.ssl-images-amazon.com/images/I/512OOMv4ZEL.jpg" alt="You're Awesome"/>
 </p>
 
-## What went great:##
+## What went great:
 
 * I actually already knew I had the best husband in the universe, but this last year made it even more clear. He kept supporting me morally, financially, mentally and even by doing code reviews. He made the struggle a lot easier by providing support where possible.
 * I finished General Assembly's bootcamp! Sounds easy and sounds like a given, but it isn't. I've heard from others about drop-outs in their class, and I also had people dropping out halfway through. So patting myself on the back for finishing the 12-week programme.
@@ -34,7 +34,7 @@ As it's nearly the end of the year, the end of my probation period (yay!) and ne
   <img src="https://media.giphy.com/media/zyclIRxMwlY40/giphy.gif" alt="On fire"/>
 </p>
 
-## What could have been better:##
+## What could have been better:
 
 I think I can summarize all of these bullet points as "hard truths about being a career changer", although some of them might be more true for me than for others in similar circumstances.
 
@@ -50,7 +50,7 @@ Let me be clear: I'm not against pair programming (otherwise I'd better resign),
   <img src="https://i.imgur.com/duuVH0L.png" alt="Blackadder"/>
 </p>
 
-## Actions for next year:##
+## Actions for next year:
 
 * Drop the perfectionism. It makes me feel stressed and unhappy and everyone around me as well. It's ok to feel dead tired if your brain has had to deal with new information all day long (look at how much toddlers get to sleep!). It's ok not to attend all of the Meetups, read all of the tweets, the articles, the books, and do all of the online courses. Try to walk before trying to run. Try to run before trying to cycle. Try to cycle before trying to ski. (I'll stop there, but the point is that it will never be enough. There's always more to learn, or achieve a better understanding of something you're already quite familiar with).
 * Embrace the basics. Don't try to understand all of the exotic commands in Git, but understand how to deal with common situations and know where to get help for the uncommon ones. Repeat, repeat and repeat all of the "basic stuff" so you can do them in your sleep (and it won't tax your brain at all). This will give you more brain power to deal with the actual task at hand.
